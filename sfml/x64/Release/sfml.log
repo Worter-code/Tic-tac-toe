@@ -1,0 +1,40 @@
+﻿  cell.cpp
+  functions.cpp
+  main.cpp
+d:\programms\vs\sfml\sfml\pvp.h(37): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\programms\vs\sfml\sfml\pvp.h(52): warning C4244: инициализация: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+d:\programms\vs\sfml\sfml\pvp.h(53): warning C4244: инициализация: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+d:\programms\vs\sfml\sfml\pvp.h(62): warning C4804: -=: небезопасное использование типа "bool" в операции
+d:\programms\vs\sfml\sfml\pvp.h(73): warning C4804: -=: небезопасное использование типа "bool" в операции
+d:\programms\vs\sfml\sfml\pvp.h(83): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\programms\vs\sfml\sfml\pvp.h(90): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\programms\vs\sfml\sfml\pve.h(43): warning C4804: -=: небезопасное использование типа "bool" в операции
+d:\programms\vs\sfml\sfml\pve.h(52): warning C4244: инициализация: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+d:\programms\vs\sfml\sfml\pve.h(53): warning C4244: инициализация: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+d:\programms\vs\sfml\sfml\pve.h(59): warning C4804: -=: небезопасное использование типа "bool" в операции
+d:\programms\vs\sfml\sfml\pve.h(75): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\programms\vs\sfml\sfml\pve.h(82): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\programms\vs\sfml\sfml\pve.h(89): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  x_o.cpp
+  Создание кода
+  262 of 262 functions (100.0%) were compiled.
+    258 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  sfml.vcxproj -> D:\Programms\VS\sfml\x64\Release\sfml.exe
